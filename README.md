@@ -1,6 +1,10 @@
-# Hey there 👋
-I am `netrunner.eth` a semi-retired software engineer.<br>
-If you need specialist development contact me.
+# About me 👋
+
+🚀 Software Dev<br>
+👷 Building Web3<br>
+☕ JS Maximalist<br>
+
+If you need specialist development contact me.<br>
 
 ## Skill set
 ✔ Product Management<br>
@@ -13,7 +17,7 @@ If you need specialist development contact me.
 📬 Get in touch:<br>
 0xnetrunner@protonmail.com<br>
 https://twitter.com/0xnetrunner<br>
-Web3/ENS: netrunner.eth<br>
+Web3/ENS: `netrunner.eth`<br>
 
 ## Tech Stack
 
