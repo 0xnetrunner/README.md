@@ -1,5 +1,5 @@
 # Hey there 👋
-I am "netrunner.eth" a semi-retired software engineer.<br>
+I am `netrunner.eth` a semi-retired software engineer.<br>
 If you need specialist development contact me.
 
 ## Skill set
