@@ -1,6 +1,6 @@
 # About me 👋
 
-🚀 Software Dev<br>
+🚀 Ethereum Dev<br>
 👷 Building Web3<br>
 ☕ JS Maximalist<br>
 
